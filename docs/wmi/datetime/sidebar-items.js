@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["WMIDateTime","A wrapper type around chrono's DateTime, which supports parsing from WMI-format strings."]]});

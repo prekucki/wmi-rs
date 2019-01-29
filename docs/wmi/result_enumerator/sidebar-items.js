@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["IWbemClassWrapper","A wrapper around a raw pointer to IWbemClassObject, which also takes care of releasing the object when dropped."],["QueryResultEnumerator",""]]});

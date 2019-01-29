@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["struct_name_and_fields","Return the fields of a struct. Taken directly from https://github.com/serde-rs/serde/issues/1110"]]});
