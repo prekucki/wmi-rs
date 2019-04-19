@@ -94,8 +94,6 @@
 //! Most native objects has an equivalent wrapper struct which implements `Drop` for that data.
 //!
 //!
-#![feature(ptr_internals, custom_attribute)]
-
 pub mod connection;
 pub mod datetime;
 pub mod de;
